@@ -19,5 +19,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## UNIT TESTS
-While in the project directory, run `yarn test` and select `option a` to run all tests (if it does not happen automatically)
+- While in the project directory, run `yarn test` and select `option a` to run all tests (if it does not happen automatically)
+- All tests should pass !!
 
