@@ -1,0 +1,20 @@
+.contain {
+  margin: 40px auto 0;
+  /* margin: auto auto; */
+  height: 90vh;
+  width: 50%;
+  /* margin-left: auto;
+  margin-right: auto; */
+  /* justify-content: center;
+  align-items: center; */
+}
+
+@media (max-width: 768px) {
+  .contain {
+    width: 90%;
+  }
+}
+
+body {
+  background-color: #A0E7E5;
+}
